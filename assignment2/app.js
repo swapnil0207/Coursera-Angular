@@ -29,11 +29,11 @@
     function ShoppingListCheckOffService() {
         var service = this;
         var toBuyItems = [
-            { name: "cookies", quantity: 7 },
-            { name: "salad stuff", quantity: 6 },
-            { name: "eggs", quantity: 5 },
-            { name: "pork chops", quantity: 4 },
-            { name: "applesauce", quantity: 3 }
+            { name: "Cookies", quantity: 7 },
+            { name: "Salad stuff", quantity: 6 },
+            { name: "Eggs", quantity: 5 },
+            { name: "Milk", quantity: 4 },
+            { name: "Applesauce", quantity: 3 }
         ];
         var alreadyBoughtItems = [];
 
